@@ -22,13 +22,7 @@
 <html>
 	<head>
 		<meta name="\&quot;color-scheme\&quot;" content="\&quot;light" dark\"="">
-		<style>
-			pre {
-			content-visibility: auto;
-			line-height: 1.2em;
-			margin: 0;
-			}
-		</style>
+		
 	</head>
 	<body><pre style="width: 54ch; contain-intrinsic-height: 31.2em; content-visibility: visible">    3.141592653589793238462643383279
     5028841971693993751058209749445923
