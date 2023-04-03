@@ -15,12 +15,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=J1ston&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-
-- uses: Platane/snk@v1
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    gif_out_path: dist/github-snake.gif
-    svg_out_path: dist/github-snake.svg
 ---
 [![](https://visitcount.itsvg.in/api?id=J1ston&icon=0&color=6)](https://visitcount.itsvg.in)
 
