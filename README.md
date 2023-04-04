@@ -4,7 +4,17 @@
 
 </div>
 
-
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+class web-developer:
+    def __init__(self):
+        self.name = "Pavel"
+        self.role = "web-developer"
+        self.language_spoken = ["RU", "EN"]
+    def say_hi(self):
+        print("Hello!")
+```
 
 
 <div align = "center">
