@@ -9,13 +9,15 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1&color=8EDC74&center=true&vCenter=true&multiline=true&repeat=false&width=790&height=315&lines=......___...........___...........___.......___.......___.....;.....%2F%5C__%5C.........%2F%5C..%5C.........%2F%5C__%5C.....%2F%5C__%5C.....%2F%5C..%5C....;....%2F%3A%2F..%2F........%2F%3A%3A%5C..%5C.......%2F%3A%2F..%2F....%2F%3A%2F..%2F....%2F%3A%3A%5C..%5C...;...%2F%3A%2F__%2F........%2F%3A%2F%5C%3A%5C..%5C.....%2F%3A%2F..%2F....%2F%3A%2F..%2F....%2F%3A%2F%5C%3A%5C..%5C..;..%2F%3A%3A%5C..%5C.___...%2F%3A%3A%5C~%5C%3A%5C..%5C...%2F%3A%2F..%2F....%2F%3A%2F..%2F....%2F%3A%2F..%5C%3A%5C..%5C.;.%2F%3A%2F%5C%3A%5C..%2F%5C__%5C.%2F%3A%2F%5C%3A%5C.%5C%3A%5C__%5C.%2F%3A%2F__%2F....%2F%3A%2F__%2F....%2F%3A%2F__%2F.%5C%3A%5C__%5C;.%5C%2F__%5C%3A%5C%2F%3A%2F..%2F.%5C%3A%5C~%5C%3A%5C.%5C%2F__%2F.%5C%3A%5C..%5C....%5C%3A%5C..%5C....%5C%3A%5C..%5C.%2F%3A%2F..%2F;......%5C%3A%3A%2F..%2F...%5C%3A%5C.%5C%3A%5C__%5C....%5C%3A%5C..%5C....%5C%3A%5C..%5C....%5C%3A%5C..%2F%3A%2F..%2F.;......%2F%3A%2F..%2F.....%5C%3A%5C.%5C%2F__%2F.....%5C%3A%5C..%5C....%5C%3A%5C..%5C....%5C%3A%5C%2F%3A%2F..%2F..;.....%2F%3A%2F..%2F.......%5C%3A%5C__%5C........%5C%3A%5C__%5C....%5C%3A%5C__%5C....%5C%3A%3A%2F..%2F...;.....%5C%2F__%2F.........%5C%2F__%2F.........%5C%2F__%2F.....%5C%2F__%2F.....%5C%2F__%2F...." alt="Typing SVG" /></a>
 
 </div>
-<div align = "center" >
+
 
 ```HTMl
 <!doctype html>
 <html>
 	<head>
-		
+		<meta charset="utf-8">
+		<title> profile </title>
+		<link rel="stylesheet" href="css/style.css" />
 	</head>
 	<body>
 		<header>
@@ -45,13 +47,13 @@
 			</article>
 		</section>
 		<footer>
-			
+			<p> goodbye </p>
 		</footer>
 	</body>
 </html>
 ```
 
-
+<div align = "center" >
 ## 🌐 Соцсети:
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/J1ston) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/J1ston) 
 <br>
