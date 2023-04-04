@@ -36,9 +36,11 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=J1ston&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
 </div>
-<div align = "right">
----
+
+<div align = "center">
+
 [![](https://visitcount.itsvg.in/api?id=J1ston&icon=0&color=12)](https://visitcount.itsvg.in)
 
 </div>
