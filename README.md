@@ -18,6 +18,7 @@
 
 
 </pre>
+<div align = "center" >
 # 💫 Про меня:
 😎 I’m working on my IT projects<br>🌱 I’m learning to web developer and python developer<br>🎸 I’m play on guitar<br>
 
@@ -40,5 +41,5 @@
 <div align="center">
 	<img src="https://github.com/J1ston/J1ston/blob/main/github-user-contribution.svg" />
 </div>
-
+</div>
 
