@@ -19,8 +19,12 @@
 
 </pre>
 <div align = "center" >
+<pre>
 # 💫 Про меня:
-😎 I’m working on my IT projects<br>🌱 I’m learning to web developer and python developer<br>🎸 I’m play on guitar<br>
+😎 I’m working on my IT projects <br>
+🌱 I’m learning to web developer and python developer< br>
+🎸 I’m play on guitar<br>
+</pre>
 
 
 ## 🌐 Соцсети:
