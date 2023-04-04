@@ -31,9 +31,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=J1ston&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=J1ston&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<div align="center">
-	<img src="https://github.com/J1ston/J1ston/blob/main/github-user-contribution.svg" />
-</div>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=J1ston&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
