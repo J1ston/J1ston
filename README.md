@@ -33,7 +33,7 @@
 
 
 <div align="center">
-	<img src="github-contribution-grid-snake.svg" />
+	<img src="https://github.com/J1ston/J1ston/blob/main/github-user-contribution.svg" />
 </div>
 
 
