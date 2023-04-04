@@ -10,6 +10,7 @@
 
 </div>
 
+<h2> о мне </h2>
 
 ```HTMl
 <!doctype html>
