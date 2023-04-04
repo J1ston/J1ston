@@ -29,7 +29,7 @@ class web-developer:
 		<section>
 			<article>
 				<div class ="role">
-					<p>web-developer</p>
+					<p> web-developer </p>
 				</div>
 				<div class ="code">
 					<p> HTML, CSS, Python </p>
