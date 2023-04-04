@@ -4,17 +4,12 @@
 
 </div>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-class web-developer:
-    def __init__(self):
-        self.name = "Pavel"
-        self.role = "web-developer"
-        self.language_spoken = ["RU", "EN"]
-    def say_hi(self):
-        print("Hello!")
-```
+
+<div align = "center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1&color=8EDC74&center=true&vCenter=true&multiline=true&repeat=false&width=790&height=315&lines=......___...........___...........___.......___.......___.....;.....%2F%5C__%5C.........%2F%5C..%5C.........%2F%5C__%5C.....%2F%5C__%5C.....%2F%5C..%5C....;....%2F%3A%2F..%2F........%2F%3A%3A%5C..%5C.......%2F%3A%2F..%2F....%2F%3A%2F..%2F....%2F%3A%3A%5C..%5C...;...%2F%3A%2F__%2F........%2F%3A%2F%5C%3A%5C..%5C.....%2F%3A%2F..%2F....%2F%3A%2F..%2F....%2F%3A%2F%5C%3A%5C..%5C..;..%2F%3A%3A%5C..%5C.___...%2F%3A%3A%5C~%5C%3A%5C..%5C...%2F%3A%2F..%2F....%2F%3A%2F..%2F....%2F%3A%2F..%5C%3A%5C..%5C.;.%2F%3A%2F%5C%3A%5C..%2F%5C__%5C.%2F%3A%2F%5C%3A%5C.%5C%3A%5C__%5C.%2F%3A%2F__%2F....%2F%3A%2F__%2F....%2F%3A%2F__%2F.%5C%3A%5C__%5C;.%5C%2F__%5C%3A%5C%2F%3A%2F..%2F.%5C%3A%5C~%5C%3A%5C.%5C%2F__%2F.%5C%3A%5C..%5C....%5C%3A%5C..%5C....%5C%3A%5C..%5C.%2F%3A%2F..%2F;......%5C%3A%3A%2F..%2F...%5C%3A%5C.%5C%3A%5C__%5C....%5C%3A%5C..%5C....%5C%3A%5C..%5C....%5C%3A%5C..%2F%3A%2F..%2F.;......%2F%3A%2F..%2F.....%5C%3A%5C.%5C%2F__%2F.....%5C%3A%5C..%5C....%5C%3A%5C..%5C....%5C%3A%5C%2F%3A%2F..%2F..;.....%2F%3A%2F..%2F.......%5C%3A%5C__%5C........%5C%3A%5C__%5C....%5C%3A%5C__%5C....%5C%3A%3A%2F..%2F...;.....%5C%2F__%2F.........%5C%2F__%2F.........%5C%2F__%2F.....%5C%2F__%2F.....%5C%2F__%2F...." alt="Typing SVG" /></a>
+
+</div>
+<div align = "center" >
 
 ```HTMl
 <!doctype html>
@@ -24,9 +19,19 @@ class web-developer:
 	</head>
 	<body>
 		<header>
-			My name is Pavel
+			<h1> My name is Pavel </h1>
 		</header>
 		<section>
+			<article>
+				<div class ="country">
+					<p>Russia</p>
+				</div>
+				<div class ="languages">
+					<p> "RU", "EN" </p>
+				</div>
+				<div class="age">
+					<p> 13 years </p>
+				</div>
 			<article>
 				<div class ="role">
 					<p> web-developer </p>
@@ -45,24 +50,6 @@ class web-developer:
 	</body>
 </html>
 ```
-
-
-
-
-
-
-<div align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1&color=8EDC74&center=true&vCenter=true&multiline=true&repeat=false&width=790&height=315&lines=......___...........___...........___.......___.......___.....;.....%2F%5C__%5C.........%2F%5C..%5C.........%2F%5C__%5C.....%2F%5C__%5C.....%2F%5C..%5C....;....%2F%3A%2F..%2F........%2F%3A%3A%5C..%5C.......%2F%3A%2F..%2F....%2F%3A%2F..%2F....%2F%3A%3A%5C..%5C...;...%2F%3A%2F__%2F........%2F%3A%2F%5C%3A%5C..%5C.....%2F%3A%2F..%2F....%2F%3A%2F..%2F....%2F%3A%2F%5C%3A%5C..%5C..;..%2F%3A%3A%5C..%5C.___...%2F%3A%3A%5C~%5C%3A%5C..%5C...%2F%3A%2F..%2F....%2F%3A%2F..%2F....%2F%3A%2F..%5C%3A%5C..%5C.;.%2F%3A%2F%5C%3A%5C..%2F%5C__%5C.%2F%3A%2F%5C%3A%5C.%5C%3A%5C__%5C.%2F%3A%2F__%2F....%2F%3A%2F__%2F....%2F%3A%2F__%2F.%5C%3A%5C__%5C;.%5C%2F__%5C%3A%5C%2F%3A%2F..%2F.%5C%3A%5C~%5C%3A%5C.%5C%2F__%2F.%5C%3A%5C..%5C....%5C%3A%5C..%5C....%5C%3A%5C..%5C.%2F%3A%2F..%2F;......%5C%3A%3A%2F..%2F...%5C%3A%5C.%5C%3A%5C__%5C....%5C%3A%5C..%5C....%5C%3A%5C..%5C....%5C%3A%5C..%2F%3A%2F..%2F.;......%2F%3A%2F..%2F.....%5C%3A%5C.%5C%2F__%2F.....%5C%3A%5C..%5C....%5C%3A%5C..%5C....%5C%3A%5C%2F%3A%2F..%2F..;.....%2F%3A%2F..%2F.......%5C%3A%5C__%5C........%5C%3A%5C__%5C....%5C%3A%5C__%5C....%5C%3A%3A%2F..%2F...;.....%5C%2F__%2F.........%5C%2F__%2F.........%5C%2F__%2F.....%5C%2F__%2F.....%5C%2F__%2F...." alt="Typing SVG" /></a>
-
-</div>
-<div align = "center" >
-
-# 💫 Про меня:
-<pre>
-😎 Я работаю над своими ИТ-проектами
-🌱 Я учусь на веб-разработчик 
-🎸 Я играю на гитаре
-</pre>
 
 
 ## 🌐 Соцсети:
