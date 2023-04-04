@@ -78,9 +78,10 @@
 ![](https://github-contributor-stats.vercel.app/api?username=J1ston&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
-</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/J1ston/J1ston/blob/main/github-user-contribution.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/J1ston/J1ston/blob/main/github-user-contribution%20(1).svg">
   <img alt="github contribution grid snake animation" src="https://github.com/J1ston/J1ston/blob/main/github-user-contribution.svg">
 </picture>
+</div>
