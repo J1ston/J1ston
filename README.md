@@ -1,4 +1,8 @@
+<div align = "end">
 
+[![](https://visitcount.itsvg.in/api?id=J1ston&icon=0&color=12)](https://visitcount.itsvg.in)
+
+</div>
 
 
 <h1 align = "center">
@@ -39,7 +43,7 @@
 
 </div>
 
-<div align = "center">
+<div align = "end">
 
 [![](https://visitcount.itsvg.in/api?id=J1ston&icon=0&color=12)](https://visitcount.itsvg.in)
 
