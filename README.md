@@ -24,11 +24,19 @@ class web-developer:
 	</head>
 	<body>
 		<header>
-			
+			My name is Pavel
 		</header>
 		<section>
 			<article>
-				
+				<div class ="role">
+					<p>web-developer</p>
+				</div>
+				<div class ="code">
+					<p> HTML, CSS, Python </p>
+				</div>
+				<div class ="tools">
+					<p> VS code, PyCharm, Blender </p>
+				<div>
 			</article>
 		</section>
 		<footer>
