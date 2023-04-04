@@ -39,8 +39,8 @@
 </div>
 <div align = "right">
 ---
-	[![](https://visitcount.itsvg.in/api?id=J1ston&icon=0&color=12)](https://visitcount.itsvg.in)
----
+[![](https://visitcount.itsvg.in/api?id=J1ston&icon=0&color=12)](https://visitcount.itsvg.in)
+
 </div>
 
 
