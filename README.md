@@ -38,14 +38,11 @@
 ![](https://github-profile-trophy.vercel.app/?username=J1ston&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 </div>
 <div align = "right">
-
+---
 	[![](https://visitcount.itsvg.in/api?id=J1ston&icon=0&color=12)](https://visitcount.itsvg.in)
-
+---
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=J1ston&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=J1ston&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=J1ston&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=J1ston&icon=0&color=12)](https://visitcount.itsvg.in)
