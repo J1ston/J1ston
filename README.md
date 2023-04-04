@@ -32,3 +32,40 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=J1ston&icon=0&color=6)](https://visitcount.itsvg.in)
+> Language usage
+
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=holic-x&theme=gruvbox_light&layout=compact"/>
+</div>
+
+
+> Code analysis
+
+<!-- START_SECTION:waka -->
+<!-- END_SECTION:waka -->
+
+# 💻Recent Blog
+
+<!-- BLOG-POST-LIST:START -->
+- [asciinema-linux终端回放记录工具](https://blog.holic-x.com/wv-blog/post/8f2c237d.html)
+- [CDN加速](https://blog.holic-x.com/wv-blog/post/b9906fe8.html)
+- [Office开发者计划-永久白嫖Office365](https://blog.holic-x.com/wv-blog/post/d33a9143.html)
+- [网站多线部署](https://blog.holic-x.com/wv-blog/post/50b43c4a.html)
+- [hexo-butterfly-首页改造](https://blog.holic-x.com/wv-blog/post/c9f9cd5d.html)
+<!-- BLOG-POST-LIST:END -->
+
+
+
+# 🔭Actions
+
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+</div>
+
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=holic-x&theme=github"/>
+</div>
+
+
+
+![](https://stats.justsong.cn/api/github?username=holic-x)![](https://stats.justsong.cn/api/zhihu?username=holic-x)
